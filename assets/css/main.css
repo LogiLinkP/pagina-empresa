@@ -848,7 +848,7 @@ section {
 # Features Section
 --------------------------------------------------------------*/
 .features {
-  padding-top: 80px;
+  padding-top: 20px;
 }
 
 .features .features-item+.features-item {
